@@ -1,5 +1,5 @@
 <?php
-$server = "localhost";
+$server = "localhost:82";
 $user = "root";
 $password = "tjddn0929";
 $dbname = "life_style";
